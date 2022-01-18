@@ -498,6 +498,63 @@ filter: drop-shadow(5px 5px 15px);
   }
 }
 
+/* SHUTTERSTOCK PROJECT */
+
+#shutterstock-project{
+  width: 90%;
+  height: 25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem auto 5rem auto;
+  background-image: url("shutterstock/shutterstock1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 30px;
+  overflow: hidden;
+  filter: drop-shadow(2px 2px 5px);
+  text-align: center;
+}
+
+#shutterstock-project:hover{
+filter: drop-shadow(5px 5px 15px);
+}
+
+.shutterstock-title{
+  font-size: 5rem;
+  color: white;
+  text-shadow: 5px 2px #222831;
+}
+
+.shutterstock-btn{
+  background-color: #222831;
+  font-size: 1.5rem;
+  color: white;
+  border-radius: 5rem;
+  padding: 0.5rem 2.5rem 0.5rem 2.5rem;
+  transform: translateY(6rem);
+  border: 1px solid white;
+  cursor: pointer;
+  transition: background-color 0.5s ease, filter 0.5s ease, border-radius 0.5s ease;
+  margin: 0 auto 1rem auto;
+}
+
+.shutterstock-btn:hover{
+  background-color: white;
+  filter: drop-shadow(2px 2px 7px);
+  border-radius: 0rem;
+  color: #222831;
+}
+
+
+@media only screen and (max-width: 852px){
+  .shutterstock-title{
+    font-size: 3rem;
+  }
+}
+
 
 
 /* ABOUT */
