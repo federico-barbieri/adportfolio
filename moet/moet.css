@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  font-size: 20px;
+}
+
+body{
+  font-family: 'Poiret One', cursive;
+  text-align: center;
+  background-color: #FFE6E6;
+}
+
+.moet-title{
+  font-size: 5rem;
+  color: white;
+  text-shadow: 5px 2px #FF7171;
+  margin: 6rem auto 3rem auto;
+}
+
+.moet-video{
+  margin-bottom: 5rem;
+}
