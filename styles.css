@@ -79,7 +79,7 @@ nav li{
     width: 100%;
     height: 20rem;
     overflow: hidden;
-    
+
   }
   .fa-bars{
     transform: scale(3);
@@ -597,22 +597,6 @@ filter: drop-shadow(5px 5px 15px);
   }
 }
 
-.diplomas{
-  background-color: white;
-  max-width: 80vw;
-  max-height: 230rem;
-  margin: 5rem auto 1rem auto;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  align-items: center;
-}
-
-.diploma{
-  width: 60%;
-  height: auto;
-  margin: 3rem auto 1rem auto;
-}
 
 .line-pre-stack{
   max-width: 30rem;
