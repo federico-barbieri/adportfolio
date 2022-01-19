@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  font-size: 20px;
+}
+
+body{
+  font-family: 'Poiret One', cursive;
+  text-align: center;
+  background-color: #FFE6E6;
+}
+
+.volkswagen-title{
+  font-size: 5rem;
+  color: white;
+  text-shadow: 5px 2px #825959;
+  margin: 6rem auto 3rem auto;
+}
+
+.vento{
+  display: block;
+  width: 1080px;
+  height: 720px;
+  margin: 2rem auto 2rem auto;
+  filter: drop-shadow(5px 5px 15px);
+}
