@@ -119,6 +119,13 @@ body{
   text-align: center;
 }
 
+.container{
+max-width: 100%;
+background-color: #FFE6E6;
+overflow: hidden;
+margin: 0 auto 0 auto;
+}
+
 /* INTRO */
 
 #intro{
@@ -217,9 +224,6 @@ filter: drop-shadow(5px 5px 15px);
   color: white;
   text-shadow: 5px 2px #FF7171;
 }
-
-
-
 
 
 .moet-btn{
@@ -890,11 +894,4 @@ filter: drop-shadow(5px 5px 15px);
   .footer-icons{
     width: 5rem;
   }
-}
-
-.container{
-max-width: 100%;
-background-color: #FFE6E6;
-overflow: hidden;
-margin: 0 auto 0 auto;
 }
