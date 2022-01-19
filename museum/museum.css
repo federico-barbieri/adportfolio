@@ -20,12 +20,30 @@ body{
   margin: 6rem auto 3rem auto;
 }
 
+
+h3{
+  display: block;
+  margin: 2rem auto;
+  border-bottom: 0.5px solid #7C99AC;
+  text-shadow: 2px 1px #7C99AC;
+  color: white;
+}
+
+.museum-info{
+  font-size: 1.5rem;
+  color: black;
+  margin: 6rem auto 3rem auto;
+  text-align: left;
+  width: 80%;
+}
+
+.museum-idea{
+  text-align: right;
+}
+
 .museum-video{
   margin-bottom: 5rem;
   filter: drop-shadow(5px 5px 15px);
-}
-
-.museum-video2{
-  margin-bottom: 5rem;
-  filter: drop-shadow(5px 5px 15px);
+  width: 80%;
+  height: auto;
 }
