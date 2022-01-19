@@ -669,6 +669,7 @@ filter: drop-shadow(5px 5px 15px);
   align-items: center;
   justify-content: space-around;
   width: 25rem;
+  height: 5rem;
   margin: 2rem auto 1rem auto;
 }
 
@@ -708,6 +709,7 @@ filter: drop-shadow(5px 5px 15px);
   }
   .tools{
     width: 15rem;
+    height: 5rem;
   }
   .illustrator{
     width: 60px;
@@ -746,6 +748,7 @@ filter: drop-shadow(5px 5px 15px);
   }
   .tools{
     width: 12rem;
+    height: 5rem;
   }
 }
 
