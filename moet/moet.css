@@ -22,4 +22,5 @@ body{
 
 .moet-video{
   margin-bottom: 5rem;
+  filter: drop-shadow(5px 5px 15px);
 }
