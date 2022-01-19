@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  font-size: 20px;
+}
+
+body{
+  font-family: 'Poiret One', cursive;
+  text-align: center;
+  background-color: #FFE6E6;
+}
+
+.cepita-title{
+  font-size: 5rem;
+  color: white;
+  text-shadow: 5px 2px #7C99AC;
+  margin: 6rem auto 3rem auto;
+}
+
+.cepita-video{
+  margin-bottom: 5rem;
+  filter: drop-shadow(5px 5px 15px);
+}
