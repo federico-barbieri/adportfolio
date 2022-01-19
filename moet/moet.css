@@ -20,7 +20,29 @@ body{
   margin: 6rem auto 3rem auto;
 }
 
+h3{
+  display: block;
+  margin: 2rem auto;
+  border-bottom: 0.5px solid #FF7171;
+  text-shadow: 2px 1px #FF7171;
+  color: white;
+}
+
+.moet-info{
+  font-size: 1.5rem;
+  color: black;
+  margin: 6rem auto 3rem auto;
+  text-align: left;
+  width: 80%;
+}
+
+.moet-idea{
+  text-align: right;
+}
+
 .moet-video{
   margin-bottom: 5rem;
   filter: drop-shadow(5px 5px 15px);
+  width: 80%;
+  height: auto;
 }
