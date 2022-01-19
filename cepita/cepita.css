@@ -41,8 +41,31 @@ h3{
 }
 
 .cepita-video{
+  display: block;
   margin-bottom: 5rem;
   filter: drop-shadow(5px 5px 15px);
   width: 80%;
   height: auto;
+  margin: 0 auto 5rem auto;
+}
+
+.back{
+  background-color: #7C99AC;
+  font-size: 1.5rem;
+  color: white;
+  border-radius: 5rem;
+  padding: 0.5rem 2rem 0.5rem 2rem;
+  transform: translateY(3rem);
+  border: 1px solid #7C99AC;
+  cursor: pointer;
+  transition: background-color 0.5s ease, filter 0.5s ease, border-radius 0.5s ease;
+  margin: 0 auto 10rem auto;
+}
+
+.back:hover{
+  background-color: white;
+  filter: drop-shadow(2px 2px 7px white);
+  border-radius: 0rem;
+  text-shadow: none;
+  color: #7C99AC;
 }
